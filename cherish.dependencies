@@ -13,6 +13,6 @@
  },
  {
    "repository"   : "kernel_xiaomi_lavender",
-   "target_path"  : "kernel/xiaomi/sdm660"
+   "target_path"  : "kernel/xiaomi/lavender"
  }
 ]
