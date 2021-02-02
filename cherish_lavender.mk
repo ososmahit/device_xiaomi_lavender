@@ -51,10 +51,10 @@ PRODUCT_DEVICE := lavender
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 7
 
-BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ1A.210105.004/7038034:user/release-keys"
+BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ1A.210205.004/7038034:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="redfin-user 11 RQ1A.210105.004 7038034 release-keys" \
+    PRIVATE_BUILD_DESC="redfin-user 11 RQ1A.210205.004 7038034 release-keys" \
     PRODUCT_NAME="lavender"
 
 PRODUCT_PROPERTY_OVERRIDES += \
